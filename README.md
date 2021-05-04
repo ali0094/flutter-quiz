@@ -18,7 +18,7 @@ clone this project and update base url and database credential
 
 Muhammad Ali – [@ask_mystic](https://twitter.com/ask_mystic) – muhammad.ali0094@outlook.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the Apache License 2.0. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/ali0094/php-quiz-laraval/blob/master/LICENSE](read more)
 
