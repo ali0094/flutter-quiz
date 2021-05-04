@@ -20,5 +20,5 @@ Muhammad Ali – [@ask_mystic](https://twitter.com/ask_mystic) – muhammad.ali0
 
 Distributed under the Apache License 2.0. See ``LICENSE`` for more information.
 
-[https://github.com/ali0094/php-quiz-laraval/blob/master/LICENSE](read more)
+[https://github.com/ali0094/php-quiz-laraval/blob/master/LICENSE]
 
